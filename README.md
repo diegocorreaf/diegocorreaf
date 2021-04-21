@@ -26,4 +26,4 @@
 [instagram]: https://www.instagram.com/xeep/
 [linkedin]: https://www.linkedin.com/in/diegocorreaf/
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocorreaf&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocorreaf&show_icons=true&count_private=true)
