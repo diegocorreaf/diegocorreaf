@@ -1,8 +1,7 @@
-### Hi there, I'm Diego Corrêa - aka XeeP 👋
+### Hi there, I'm Diego Corrêa - aka XeeP <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px" />
 
-## I'm a full-stack developer at Northern Ventures!!
-
-- 🔭 I’m currently working with Ruby on Rails!
+* :computer: I'm a full-stack web dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
+- 💎 I’m currently working with Ruby on Rails at Northern Ventures!
 - 📫 How to reach me: diegoc.fernandes1@gmail.com
 - ⚡ Fun fact: I like to cook n' play games, but not at the same time
 
@@ -26,3 +25,5 @@
 
 [instagram]: https://www.instagram.com/xeep/
 [linkedin]: https://www.linkedin.com/in/diegocorreaf/
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocorreaf&show_icons=true)  
